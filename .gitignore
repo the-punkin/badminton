@@ -34,7 +34,7 @@ yarn-error.log*
 .env.local*
 
 # Videos and processed data
-video/
+test/video/
 processed/
 
 # Python
