@@ -1,4 +1,4 @@
-
+#что-то новое
 from fastapi import FastAPI, UploadFile, File, BackgroundTasks
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
