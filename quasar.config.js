@@ -73,6 +73,8 @@ export default defineConfig((/* ctx */) => {
     // Full list of options: https://v2.quasar.dev/quasar-cli-vite/quasar-config-file#devserver
     devServer: {
       // https: true,
+      host: '0.0.0.0',
+      port: 8081,
       open: true, // opens browser window automatically
     },
 
