@@ -15,7 +15,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-VIDEO_DIR = "videos"
+VIDEO_DIR = "video"
 os.makedirs(VIDEO_DIR, exist_ok=True)
 
 @app.post("/upload")
