@@ -23,6 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Editor directories and files
+.vscode/
 .idea
 *.suo
 *.ntvs*
@@ -33,5 +34,7 @@ yarn-error.log*
 .env.local*
 
 # Videos and processed data
-videos/
+__pycache__/
+test/__pycache__/
+test/video/
 processed/
