@@ -34,13 +34,7 @@ yarn-error.log*
 .env.local*
 
 # Videos and processed data
-test/video/
-processed/
-
-# Python
 __pycache__/
 test/__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.sqlite3
+test/video/
+processed/
