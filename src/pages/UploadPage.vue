@@ -63,7 +63,7 @@ export default {
 
 
         if (data.status === "done") {
-          this.videoUrl = `http://172.19.0.1:8000/video/${this.jobId}`;
+          this.videoUrl = `http://localhost:8000/video/${this.jobId}`;
           this.processing = false;
           console.log("videoUrl =", this.videoUrl)
 

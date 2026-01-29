@@ -29,11 +29,13 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+test/*.pt
 
 # local .env files
 .env.local*
 
 # Videos and processed data
+venv/
 __pycache__/
 test/__pycache__/
 test/video/
