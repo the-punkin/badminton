@@ -12,7 +12,7 @@
                 />
               </div>
               <div class="q-mt-lg col">
-                <div v-if="processing" class="q-mt-md">
+                <div v-if="processing" class="q-mt-md flex flex-center column">
                   <q-spinner-dots color="primary" size="50px" />
                   <div>Видео обрабатывается...</div>
                 </div>
