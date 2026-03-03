@@ -115,22 +115,22 @@ FFmpeg not found. Please install ffmpeg.
 1. Убедиться, что ffmpeg у вас действительно скачан.
 2. Зайти в переменные среды. Можно с помощью поиска: 
 
-    ![alt text](image-2.png)
+    ![alt text](for_readme/image-2.png)
 
     Или с помощью сочетаний клавиш Win+R и написать systempropertiesadvanced:
     
-    ![alt text](image-1.png)
+    ![alt text](for_readme/image-1.png)
 
 3. Заходим в переменные среды:
 
-    ![alt text](image-3.png)
+    ![alt text](for_readme/image-3.png)
 
 4. Кликаем на Path: 
 
-    ![alt text](image-4.png)
+    ![alt text](for_readme/image-4.png)
 
 5. Нажимаем создать и вставляем путь до ffmpeg/bin (последний на скрине). Затем нажимаем "Ок" во всех окнах. 
 
-    ![alt text](image-5.png)
+    ![alt text](for_readme/image-5.png)
 
 После этого перезапустить сервер.
