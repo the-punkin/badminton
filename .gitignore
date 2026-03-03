@@ -40,3 +40,4 @@ __pycache__/
 test/__pycache__/
 test/video/
 processed/
+ffmpeg/
