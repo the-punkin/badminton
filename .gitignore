@@ -41,3 +41,7 @@ test/__pycache__/
 test/video/
 processed/
 ffmpeg/
+charts/
+frames/
+test/frames/
+video/
